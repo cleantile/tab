@@ -1,0 +1,33 @@
+{
+  "name": "cleantile-tab",
+  "version": "0.1.0",
+  "description": "cleantile-tab Polymer element.",
+  "main": "cleantile-tab.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cleantile/tab.git"
+  },
+  "keywords": [
+    "polymer",
+    "web-components",
+    "tabs",
+    "control",
+    "tiling"
+  ],
+  "author": "Ryan Leonard (http://ryanleonard.us)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cleantile/tab/issues"
+  },
+  "homepage": "https://github.com/cleantile/tab",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.6.0"
+  },
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org/",
+    "access": "public"
+  }
+}
